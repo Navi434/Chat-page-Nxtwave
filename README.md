@@ -2,6 +2,8 @@
 Let's build a Chat Page by applying the concepts.
 
 ![image](https://github.com/user-attachments/assets/2953b623-deb3-41e3-84b9-93864534ba11)
+
+
 Background Image:
 ![image](https://github.com/user-attachments/assets/c7e8fe2b-b00c-4615-8806-c9103498c3af)
 
